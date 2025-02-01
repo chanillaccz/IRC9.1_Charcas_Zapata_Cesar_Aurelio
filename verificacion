@@ -1,3 +1,4 @@
+#!/bin/bash
 # Ruta de la carpeta a verificar o crear
 CARPETA="./MiCarpeta"
 
